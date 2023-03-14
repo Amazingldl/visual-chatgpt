@@ -1,4 +1,7 @@
 # Visual ChatGPT 
+From https://github.com/microsoft/visual-chatgpt
+
+**The official support for Windows now. You are advised to install it at the official repository.**
 
 **Visual ChatGPT** connects ChatGPT and a series of Visual Foundation Models to enable **sending** and **receiving** images during chatting.
 
